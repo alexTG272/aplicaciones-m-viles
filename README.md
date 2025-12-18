@@ -3,7 +3,8 @@ este proyecto trata sobre el desarrollo de un aplicativo movil desarrollado en a
 
 Aqui se muestra que se genero la apk firmada de manera correcta 
 
-<img width="305" height="145" alt="image" src="https://github.com/user-attachments/assets/9e76a236-8161-4eeb-9546-443f4c72dd82" />
+<img width="350" height="102" alt="image" src="https://github.com/user-attachments/assets/04c2dc15-d1cf-4d92-aede-41f7578fdf47" />
+
 
 
 <img width="798" height="99" alt="image" src="https://github.com/user-attachments/assets/85624335-c6d3-4b05-9458-13a7511302be" />
